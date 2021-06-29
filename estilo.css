@@ -1,0 +1,202 @@
+ *{
+  margin: 0;
+  padding:0; 
+ }
+  
+ html{
+        height: 100%;
+        width: 100% ;
+ } 
+
+ body {
+        background-color:#a7d0ff;
+        
+        color: #eff1f7; font-family: verdana, Arial, Helvetica, sans-serif; font-size: 8pt;
+        width: 100%;
+        margin: 0 auto;
+        min-width:600pxpx;
+        max-width:2000px;
+        
+        scrollbar-arrow-color: #3366CC;
+        scrollbar-base-color: #3366CC;
+        scrollbar-darkshadow-color: #3366CC;
+        scrollbar-track-color: #3366CC;
+         
+ }
+
+ header{
+        
+        background-color: #a7d0ff ;
+        width: 100%;
+        height: 95%;
+        padding: 5%;
+       /* border: 1px solid black; */
+ }
+ nav{
+        background-color: #a7d0ff ;
+        height: 4%;  
+        width: 22%;
+        float: left;
+        padding: 5%;
+        
+        
+ }
+ section{
+        background-color:#a7d0ff;
+        height: 70%;  
+        width: 73%;
+        padding: 0%;
+        float: left;
+       
+        color: white;
+        text-align: justify;
+         
+
+
+ }
+ footer{
+        background-color: #a7d0ff;
+        height: 1%;
+        width: 100%;
+        color: #FFF;
+        clear: both;
+        text-align: center;
+        padding: 0%;
+         
+
+ }
+ aside{
+       height: 0%;
+       width: 0%;
+
+ } 
+
+
+ img{
+    border: #003cbf;
+    
+ }
+
+ 
+
+ table {
+         border: 1px solid steelblue;
+         width: "886px" ;
+         height: "365px" ;
+         margin: 6pt; 
+     }
+ 
+
+ 
+ a:link {
+        color: rgb(245, 245, 248);
+      }
+      
+      /* visited link */
+ a:visited {
+        color: rgb(241, 39, 8);
+      }
+      
+      /* mouse over link */
+ a:hover {
+        color: rgb(15, 153, 26);;
+      }
+      
+      /* selected link */
+ a:active {
+        color: rgb(47, 0, 255);
+      }
+
+ #conteiner{
+        margin: 0px auto 0px auto;
+        width: 95%;
+        height: 95%;
+        background-color: #a7d0ff;
+
+ }
+
+ #imgpos {
+	position: absolute; 
+	left: 5%; /* posiciona a 90px para a esquerda */ 
+	top: 0%; /* posiciona a 70px para baixo */
+	}
+        #imgpos1 {
+                position: absolute; 
+                left: 26%; /* posiciona a 90px para a esquerda */ 
+                top: 0%; /* posiciona a 70px para baixo */
+                }        
+                #imgpos2 {
+                        position: absolute; 
+                        left: 77%; /* posiciona a 90px para a esquerda */ 
+                        top: 0%; /* posiciona a 70px para baixo */
+                        }        
+                        #imgpos3 {
+                                position: absolute; 
+                                left:87%; /* posiciona a 90px para a esquerda */ 
+                                top: 0%; /* posiciona a 70px para baixo */
+                                }
+ #menu {
+        font-family: sans-seronMouseover  
+        margin-left 2px;
+        padding: 15px;
+        font-size: 1.2em;
+   }  
+   
+ .pretitulo{
+
+        margin-top: 0;
+        margin-bottom: 0;
+        font-size: 3em;
+        color: rgb(56, 66, 206); 
+        text-align: center;
+      
+ }
+
+ .zcorpo{
+       color: rgb(56, 66, 206);
+        text-align:justify;
+        margin-left: 11px;
+        font-size: 10pt;
+ }
+
+
+ .footer_stylo{
+        height: 70%;  
+        width: 100%;
+        padding: 0%;
+        border:"1";
+ }
+
+ .m1 {
+       color: rgb(56, 66, 206); 
+       FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma;
+       FONT-SIZE: 10pt;
+       text-align: center;
+      
+ }
+ .m2 {
+        color: rgb(56, 66, 206);
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma;
+        FONT-SIZE: 10pt;
+        text-align: justify;
+        margin:  12pt;
+  }
+
+ .btd{
+       margin:  6pt;
+       border: 1px solid steelblue;
+ }
+ IMG.displayed {
+       display: block;
+       margin-left: auto;
+       margin-right: auto }
+
+ .table1{      
+       border: 0px;
+       width: "886px" ;
+       height: "365px" ;
+       margin: 6pt; 
+}
+.text-center{
+       text-align: center;
+     }
